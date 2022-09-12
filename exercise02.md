@@ -4,5 +4,5 @@
 
         git status
 
-2. Read the output
+2. Paste the output below
 

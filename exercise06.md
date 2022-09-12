@@ -4,11 +4,13 @@
 
         git status
 
-2. Open your list in your favorite text editor
-
-        vim fruits.txt
+2. Open your `fruits.txt` file  in VS Code, your favorite code editor
 
 3. Add some lines to the file
+
+        apple
+        banana
+        tomato
 
 4. Save and exit the editor
 
@@ -26,23 +28,20 @@
 
 8. Commit the changes (short commit message included on command line)
 
-        git commit -m "Add more fruit to the list"
+        git commit -m "Added more fruit to the list"
 
 9. Check status
 
         git status
 
-10. Which of these steps could be omitted?
+10. Which of the steps could be omitted?
 
 11. Why might it be a bad idea to omit them?
 
-12. Repeat the above steps to add a new list (e.g. vegetables.txt)
+12. Repeat the above steps to add a new file with the name `vegetables.txt`
 
-13. Create a subdirectory and a new list in the subdirectory
-    (e.g. equipment/appliances.txt) and repeat the above steps
-    to commit the new file.
+13. Create a subdirectory named `equipment` and a new file named `appliances.txt` in that subdirectory
 
-14. Repeat the above steps 1-9, adding to each of your files
-    a few lines at a time, until you can easily do the steps
-    without referring to this sheet
+14. Repeat the above steps to commit the new file and directory
 
+15. Repeat the above steps 1-9, adding data to each of your files a few lines at a time, until you can easily do the steps without referring to the steps. You may want to add vegetables to the vegetables file, and appliances to the appliances - or vice versa

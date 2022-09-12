@@ -1,4 +1,4 @@
-# Exercise 10 - Understanding commits
+# Exercise 10 - Understanding Commits
 
 1. Look at your commit log
 
@@ -29,6 +29,3 @@
 9. Examine the contents of the parent and its tree
 
 10. Do the trees you looked at have any matching hashes listed?
-
-11. Bonus - How many types of objects have you seen so far?
-

@@ -14,7 +14,9 @@
 
 4. Why did we use the `--global` flag?  (What does that do?)
 
-5. Bonus - Check your home directory and find the changes we've made
 
-        ls -lA ~/.git*
+5. Check your git config to show the changes you have made
 
+        git config -l
+
+For more information, check out [Customizing Git Configuration](https://www.git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)

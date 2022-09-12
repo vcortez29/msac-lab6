@@ -4,32 +4,35 @@
 
         git status
 
-2. Edit one of your lists to add a few items
+2. Edit one of your `fruits.txt`, add a few items
 
-        vim fruits.txt
+        blueberry
+        strawberry
+        etc.
 
-3. Edit another of your lists to add a few items
+3. Edit `appliances.txt` and add a few items
 
-        vim equipment/appliances.txt
+        dishwasher
+        dryer
+        etc.
 
-4. Look at git status
+4. Look at git status, paste the output here
+
+        git status
 
 5. Can you commit both of the changed files in a single commit?
 
-6. After you do so, check that you have a clean working directory
+6. After you do so, check that you have a clean working directory by running `git status`, and pasting the output here
 
-7. Edit two more files
+7. Create a new file `equipment/furniture.txt`. Add content to both `vegetables.txt` and `furniture.txt`
 
-        vim vegetables.txt equipment/furniture.txt
+8. How can you commit just one of the changed files?
 
-8. Can you commit just one of the changed files?
+9. Check your `git status`
 
-9. Check your status
+10. What does red text mean in the output of `git status`?
 
-10. What does red mean in the output of git status?
+11. What does green text mean in the output of `git status`?
 
-11. What does green mean in the output of git status?
-
-12. Bonus - Can you make a single file show in both red and green
-    in the output of `git status`?
+12. How can you make a single file show in both red and green in the output of `git status`?
 

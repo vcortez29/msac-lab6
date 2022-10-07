@@ -15,3 +15,5 @@
 4. Where are the internals of the repository stored? Paste the output of the following command on macOS & Linux.
 
         ls -lA
+
+        They are stored in the working folder

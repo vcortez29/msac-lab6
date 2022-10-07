@@ -14,6 +14,7 @@
 
 4. Why did we use the `--global` flag?  (What does that do?)
 
+        It probaby indicates that whatever is input applies to the overall project
 
 5. Check your git config to show the changes you have made
 

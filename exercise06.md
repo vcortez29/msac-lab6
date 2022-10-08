@@ -36,7 +36,11 @@
 
 10. Which of the steps could be omitted?
 
+        None
+
 11. Why might it be a bad idea to omit them?
+
+        You will not be able to check every step that was made
 
 12. Repeat the above steps to add a new file with the name `vegetables.txt`
 

@@ -25,5 +25,9 @@
 
 7. How much of the commit hash do you need to specify? Hint, run `git help log`
 
+Enough to differntiate it from other hashes
+
 8. How can you show just the last three commit messages?
+
+From my research online, using "git log -n 3"
 
